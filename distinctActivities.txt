@@ -1,0 +1,9 @@
+Breakfast Number of occurence: 14
+Grooming Number of occurence: 51
+Toileting Number of occurence: 44
+Sleeping Number of occurence: 14
+Leaving Number of occurence: 14
+Spare_Time/TV Number of occurence: 77
+Snack Number of occurence: 11
+Showering Number of occurence: 14
+Lunch Number of occurence: 9
